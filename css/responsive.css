@@ -1,0 +1,14 @@
+@media screen and (max-width:501px){
+    body{
+        overflow-x: hidden;
+        margin: 0px;
+        padding: 0px;
+    }
+    section{
+        padding: 80px;
+    }
+}
+.new-nav nav.navbar.navbar-expand-lg.bg-light .navbar-brand {
+    color: white;
+    margin-right: 150px;
+  }

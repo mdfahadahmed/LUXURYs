@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&family=Poppins:wght@300;500&display=swap');
+
+ul,li{
+    list-style-type: none;
+    margin-bottom: 0rem;
+    padding-left: 0rem;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Jost', sans-serif;
+    margin-bottom: 0rem;
+}
+p{
+    font-family: 'Jost', sans-serif;
+    margin-bottom: 0rem;
+}
+a{
+    text-decoration: none;
+}
+
+// ========= col ===========//
+$primary: 20px;
+$large: 40px;
+$max: 105px;
+$title:70px;
+$font1: 'Jost', sans-serif;
+$font2: 'Poppins', sans-serif;
+$art: Cormorant Garamond;
+$mg-big:450px;
